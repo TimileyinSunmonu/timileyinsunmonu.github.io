@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: TimileyinSunmonu
-subtitle: 
-description: Plant Geneticist.
+title: timileyinsunmonu
+subtitle: Breeding, Genetics & Genomics
+description: Plant Geneticist & Bioinformatics 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -10,8 +10,8 @@ proofer: false
 links:
   email: timileyin.sunmonu@gmail.com
   orcid: 0000-0002-0799-9190
-  google-scholar: ETJoidYAAAAJ
   github: TimileyinSunmonu
+  instagram: timileyinsunmonu
   twitter: _tsunmonu_
   youtube: TimileyinSunmonu
 
